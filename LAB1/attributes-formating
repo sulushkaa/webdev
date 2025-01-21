@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html> 
+    <head> 
+        <title> This is a title </title>
+    </head>
+    <body> 
+        <h1>This is heading 1</h1>
+        <p>This is a paragraph 1</p>
+        <p1>This is a <br> paragraph with a line break.</p1>
+        <a href="https://www.w3schools.com">Visit W3Schools</a>
+        <img src="img_girl.jpg">
+        <img src="img_girl.jpg" width="500" height="600">
+        <img src="img_girl.jpg" alt="Girl with a jacket">
+        <img src="img_typo.jpg" alt="Girl with a jacket">
+    </body>
+</html>
+
+
+<!DOCTYPE html>
+<html> 
+    <head> 
+        <title> This is a title </title>
+    </head>
+    <body>
+        <h1 style="font-size: 60px;">Heading 1</h1>
+        <h2>Heading 2</h2>
+        <h3>Heading 3</h3>
+        <h4>Heading 4</h4>
+        <h5>Heading 5</h5>
+        <h6>Heading 6</h6>
+        <p>This is a paragraph 1</p>
+        <p1>This is a <br> paragraph with a line break.</p1>
+    </body>
+</html>
+
+
+<!DOCTYPE html>
+<html> 
+    <head> 
+        <title> This is a title </title>
+    </head>
+    <body>
+        <h1>Heading 1</h1>
+        <h2>This is heading 2</h2> 
+        <p>This is some text.</p>
+        <hr>
+        <h4>This is heading 3</h4>
+        <p1>This is some other text.</p1>
+        <hr>
+        <p2>This is<br>a paragraph<br>with line breaks.</p2>
+        <pre>
+            My Bonnie lies over the ocean.
+          
+            My Bonnie lies over the sea.
+          
+            My Bonnie lies over the ocean.
+          
+            Oh, bring back my Bonnie to me.
+        </pre>
+    </body>
+</html>
+
+
+<!DOCTYPE html>
+<html> 
+    <head> 
+        <title> homework </title>
+    </head>
+    <body style="background-color: aquamarine;">
+        <h1 style="background-color: powderblue;"> this is heading </h1>
+        <p style="background-color: tomato;">this is paragraph </p>
+        <h2 style="font-family: Verdana, Geneva, Tahoma, sans-serif;"> second heading</h2>
+        <p style="font-family: 'Courier New', Courier, monospace;"> second paragrph </p>
+        <h3 style="font-size: 300%;"> third heading </h3>
+        <p style="font-size: 160%;"> third paragraph </p>
+        <h4 style="text-align: center;"> center heading number 4</h4>
+        <p style="text-align:center;">Centered paragraph.</p>
+    </body>
+</html>
+
+
+<!DOCTYPE html>
+<html> 
+    <head> 
+        <title> homework </title>
+    </head>
+    <body>
+        <b>this text is bold</b>
+        <hr>
+        <strong>this text is important</strong>
+        <hr>
+        <em> this text is emphasized </em>
+        <hr>
+        <i>this is italic</i>
+        <hr>
+        <p> Do not forget to buy <mark style="background-color: chocolate;">milk</mark> today</p>
+        <p>My favorite color is <del>blue</del> red.</p>
+        <p>My favorite color is <del>blue</del> <ins>red.</ins></p>
+        <p>this is <sub>subscripted</sub> text.</p>
+        <p>this is <sup>superscripted</sup> text</p>
+    </body>
+</html>
