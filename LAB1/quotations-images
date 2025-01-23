@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html> 
+    <head> 
+        <title> homework </title>
+    </head>
+    <body>
+        <p>Here is a quote from WWF's website:</p>
+        <blockquote cite="http://www.worldwildlife.org/who/index.html"> 
+        For 60 years, WWF has worked to help people and nature thrive.
+        As the world's leading conservation organization, WWF works
+        in nearly 100 countries. At every level, we collaborate with 
+        people around the world to develop and deliver innovative solutions 
+        that protect communities, wildlife, and the places in which they live. </blockquote>
+        <p> WWF's goal is to: <q>Build a future where people live in harmony with nature.</q></p>
+        <p> The <abbr title="World health organization"> WHO </abbr> was founded in 1948</p>
+        <address>Written by John Doe.<br>
+            Visit us at:<br>
+            Example.com<br>
+            Box 564, Disneyland<br>
+            USA</address>
+        <p><cite>The scream</cite> by Edvard Munch. Painted in 1893.</p>
+        <bdo dir="rtl"> This text will be written from right to left</bdo>
+    </body>
+</html>
+
+
+<!DOCTYPE html>
+<html> 
+    <head> 
+        <title> homework </title>
+    </head>
+    <body>
+        <!-- Write your comments here -->
+         <!-- This is a comment -->
+          <p>This is a paragraph.</p>
+          <!-- Remember to add more information here -->
+          <p>This is a paragraph.</p>
+          <!-- <p>This is another paragraph </p> -->
+          <p>This is a paragraph too.</p>
+          <p>This is a paragraph.</p>
+          <!--
+          <p>Look at this cool image:</p>
+          <img border="0" src="pic_trulli.jpg" alt="Trulli">
+          -->
+          <p>This is a paragraph too.</p>
+          <p>This <!-- great text --> is a paragraph.</p>
+    </body>
+</html>
+
+
+<!DOCTYPE html>
+<html> 
+    <head> 
+        <title> homework </title>
+    </head>
+    <body>
+        <h1 style="background-color:DodgerBlue;">Hello World</h1>
+        <p style="background-color:Tomato;">Lorem ipsum...</p>
+        <h2 style="color:Tomato;">Hello World</h2>
+        <p style="color:DodgerBlue;">Lorem ipsum...</p>
+        <h3 style="border: 2px solid darkblue;"> Hello </h3>
+        <h4 style="border:2px solid Violet;">Hello World</h4>
+        <h5 style="color: rgb(255, green 0, blue 200);"> goodbye</h5>
+    </body>
+</html>
+
+
+<!DOCTYPE html>
+<html> 
+    <head> 
+        <title> homework </title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <h1>This is a heading</h1>
+        <p>This is a paragraph.</p>
+    </body>
+</html>
+body{
+    background: rgb(168, 198, 255);
+h1 {
+    color: rgb(0, 0, 93);
+    font-family: verdana;
+    font-size: 300%;
+  }
+  p {
+    color: rgb(107, 2, 2);
+    font-family: courier;
+    font-size: 160%;
+    border: 2px solid powderblue;
+    margin: 50px;
+  }
+}
+
+
+<!DOCTYPE html>
+<html> 
+    <head> 
+        <title> homework </title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <h2>Absolute URLs</h2>
+        <p><a href="https://www.w3.org/">W3C</a></p>
+        <p><a href="https://www.google.com/">Google</a></p>
+        <h2>Relative URLs</h2>
+        <p><a href="html_images.asp">HTML Images</a></p>
+        <p><a href="/css/default.asp">CSS Tutorial</a></p>
+        <a href="default.asp">
+        <img src="some.link" alt="HTML tutorial" style="width:42px;height:42px;">
+        </a>
+        
+    </body>
+</html>
+
+
+
+<!DOCTYPE html>
+<html> 
+    <head> 
+        <title> homework </title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <img src="pic_trulli.jpg" alt="Italian Trulli">
+        <img src="img_girl.jpg" alt="Girl in a jacket">
+        <img src="workplace.jpg" alt="Workplace" usemap="#workmap">
+
+<map name="workmap">
+  <area shape="rect" coords="34,44,270,350" alt="Computer" href="computer.htm">
+  <area shape="rect" coords="290,172,333,250" alt="Phone" href="phone.htm">
+  <area shape="circle" coords="337,300,44" alt="Coffee" href="coffee.htm">
+</map>
+    </body>
+</html>
+
+
