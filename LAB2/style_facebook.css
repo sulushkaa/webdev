@@ -1,0 +1,105 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+body {
+  background: rgb(238, 238, 238);
+}
+.content {
+  position: absolute;
+  top: 40%;
+  left: 30%;
+  transform: translate(-50%, -50%);
+  max-width: 500px;
+}
+
+h1 {
+  font-size: 70px;
+  color: #1877f2;
+  font-family: Arial, sans-serif;
+}
+
+p {
+  font-size: 25px;
+}
+
+/* Блок формы */
+.wrapper {
+  background-color: #fff;
+  border-radius: 8px;
+  padding: 30px;
+  max-width: 500px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  position: absolute;
+  top: 47%;
+  left: 70%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+input {
+  width: 100%;
+  margin: 8px 0;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  font-size: 40px; /* По умолчанию большой текст */
+  padding: 20px; /* Уменьшаем padding, чтобы не мешал */
+  box-sizing: border-box;
+}
+
+.wrapper input {
+  font-size: 15px; /* Уменьшаем размер текста */
+}
+
+
+/* Кнопка Вход */
+.btn {
+  background-color: #1877f2;
+  color: white;
+  border: none;
+  padding: 12px;
+  width: 100%;
+  font-size: 20px;
+  border-radius: 6px;
+  cursor: pointer;
+  margin-top: 20px;
+}
+.forgot-password {
+  font-size: 14px; /* Сделает текст меньше */
+  display: block;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.btn:hover {
+  background-color: #166fe5;
+}
+
+/* Кнопка "Создать новый аккаунт" */
+.btn-green {
+  background-color: #42b72a;
+  color: white;
+  border: none;
+  padding: 12px;
+  width: 100%;
+  font-size: 20px;
+  border-radius: 6px;
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+.btn-green:hover {
+  background-color: #36a420;
+}
+
+/* Текст внизу */
+.footer {
+  text-align: center;
+  position: absolute;
+  bottom: 20%;
+  left: 70%;
+  transform: translateX(-50%);
+  font-size: 14px;
+}
